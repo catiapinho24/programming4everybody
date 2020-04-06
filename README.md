@@ -59,9 +59,9 @@ cd programming4everybody
 git remote add upstream https://github.com/lewagonlisbon/programming4everybody.git
 
 # Open the repository with your favourite editor:
-atom . # Atom
-subl . # Sublime Text
-code . # Visual Studio Code
+atom . # or `open -a Atom .`
+subl . # or `open -a "Sublime Text" .`
+code . # or `open -a "Visual Studio Code" .`
 ```
 
 Follow the lesson on your editor and play around in the `test` folder.
