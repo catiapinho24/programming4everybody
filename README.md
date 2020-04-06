@@ -12,7 +12,7 @@ You will also find a [`test`](./test) folder in your repository. **Don't edit or
 
 ## Setup
 
-**IMPORTANT:** This is an online learning series, and our teachers won't be able to help you with your computer configuration. If you are just moving your first steps (you don't know Git, Ruby, what a terminal is or any of the tools we are using), please **[stick to a REPL](#repl)!**. Do you want to configure your computer like a pro? [Learn how to do it with us](#going-further)!
+**IMPORTANT:** This is an online learning series, and our teachers won't be able to help you with your computer configuration. If you are just moving your first steps (you don't know Git, Ruby, what a terminal is or any of the tools we are using), please **[stick to a REPL](#repl)**! Do you want to configure your computer like a pro? [Learn how to do it with us](#going-further)!
 
 ### REPL
 
